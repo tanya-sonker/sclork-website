@@ -1,0 +1,90 @@
+html{
+	height: 100%; 
+	/*removed repeat image so, black box is present
+	don't even want that so, we extend the overarching tag */
+}
+.container{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1024px;
+}
+body{
+	background-color: rgba(0,0,0,0.9);
+	background-image: url(sclork3.jpg);
+	background-size: cover; /*resizes!*/
+	background-repeat: no-repeat; /*don't wanna repeat when resized*/
+	background-position: center;/*centers background even if resized */
+}
+
+h1{
+	font-size: 70px;
+	color: white;
+	font-family: arial;
+}
+
+p{
+	font-size: 18px;
+	color: white;
+	font-family: arial;
+}
+header{
+	/*background-color: blue;*/
+	height: 118px;
+	text-align: center;
+}
+nav{
+	background-color: rgba(0,0,0,0.338); /* a for transparency*/
+	text-align: center;
+	/*text-decoration: none; --> won't work b/c didn't do for a tags*/
+	padding-top: 14px;
+	padding-bottom: 14px;
+}
+main{
+	/* background */
+	height: 400px;
+	text-align: center;
+	/*margin-top is outside
+	padding is inside */
+	padding-top: 80px;
+	padding-left: 240px;
+	padding-right: 240px;
+
+}
+
+footer{
+	background-color: rgba(0,0,0,0.56);
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+a{
+	color: white;
+	font-family: arial;
+	/*text-decoration: none;
+	^ removes underline from link*/
+}
+
+/*specificity! --> "compound selectors"*/
+nav a{
+	text-decoration: none;
+	font-size: 12px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+footer p{
+	font-size: 10px;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.maps{
+	padding-bottom: 30px;
+}
+
+header h1{
+	font-size: 85px;
+	color: white;
+	font-family: arial;
+}
