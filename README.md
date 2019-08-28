@@ -4,7 +4,7 @@ Official website for the Santa Clara Laptop Orchestra (SCLOrk)
 ## Introduction
 In my spare time, I am building an official website for SCLOrk! 
 
-Inspired by SCLOrk's dress code for concerts (all black with a color pop), this website will follow a black and white theme with some color pops (like the background of the landing page).
+Inspired by SCLOrk's dress code for concerts (all black with a color pop), this website will follow a black and white theme with some color pops like the background of the landing page.
 
 ## Timeline
 
