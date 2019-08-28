@@ -8,7 +8,7 @@ Inspired by SCLOrk's dress code for concerts (all black with a color pop), this 
 
 ## Timeline
 
-@@@ 17 Aug 2019
+### 17 Aug 2019
 I proposed the initial design idea for SCLOrk's website. I'm currently working on the front-end of the website. 
 
 Here's a first look at the landing page:
