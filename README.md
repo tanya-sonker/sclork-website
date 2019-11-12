@@ -1,6 +1,8 @@
 # sclork-website
-Official website for the Santa Clara Laptop Orchestra (SCLOrk). 
+Official website for the Santa Clara Laptop Orchestra (SCLOrk).
+
 Check it out [here](https://scu-sclork.github.io/)!
+
 GitHub repo: [scu-sclork](https://github.com/scu-sclork/scu-sclork.github.io)
 
 ## Introduction
