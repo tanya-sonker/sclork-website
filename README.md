@@ -22,3 +22,5 @@ Here's a first look at the landing page:
 
 ### 11 Nov 2019
 Developed the first build! :)
+![build1](https://github.com/tanya-sonker/sclork-website/blob/master/landing-page-1.png)
+![build2](https://github.com/tanya-sonker/sclork-website/blob/master/landing-page-2.png)
